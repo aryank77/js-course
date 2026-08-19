@@ -1,0 +1,2 @@
+const all_new_Heroes= MarvelHeroes.concat(DCHeroes)
+// console.log(all_new_Heroes) // output: ["Ironman", "Thor", "Hulk", "Black Panther", "Captain America", "Batman", "Superman", "Wonder Woman", "Flash", "Aquaman"]
